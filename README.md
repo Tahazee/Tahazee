@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ **My Electronic Arsenal:**  
+## 🛠️ **My  Arsenal:**  
 **Embedded Systems & Sensors:**  
 - 📡 **Pixhawk** for precise navigation and control.  
 - 🔍 **Stereo Cameras** for depth perception and environmental understanding.  
