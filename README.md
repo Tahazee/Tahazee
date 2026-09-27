@@ -20,3 +20,6 @@ I primarily program in Python and C++, with experience in C#, SQL, PyTorch, Tens
 ## Github Stats:
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Tahazee&theme=light)
+
+
+![Top Languages](https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut)
