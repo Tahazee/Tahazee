@@ -2,117 +2,115 @@
 
 ### AI/ML & Robotics | Computer Vision | Autonomous Systems
 
-Computer Engineering student building real-time AI, computer vision, and autonomous robotics systems.
+Computer Engineering student specializing in AI/ML, computer vision, and autonomous robotics. I build real-time perception, localization, and navigation systems using PyTorch, OpenCV, ROS2, SLAM, and edge AI, with projects spanning computer vision, deep learning, autonomous systems, and applied AI research.
 
-## About
+---
 
-- AI/ML, Computer Vision & Robotics
-- Deep Learning, Object Detection & Semantic Segmentation
-- Stereo Vision, Depth Estimation & Visual Odometry
-- SLAM, Sensor Fusion & Autonomous Navigation
-- Real-time Edge AI on Jetson and Raspberry Pi
-- AI/ML research and applied computer vision
+## Technologies
 
-## Technical Stack
+### Languages
 
-### AI / Machine Learning
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</p>
 
-Python, PyTorch, TensorFlow, Keras, scikit-learn, YOLOv8, Anomalib  
-CNNs, CAEs, ResNet, EfficientNet, U-Net
+Python · C++ · C# · SQL
+
+### AI / ML
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</p>
+
+PyTorch · TensorFlow · Keras · scikit-learn · Anomalib · CNNs · CAEs · ResNet · EfficientNet · U-Net · YOLOv8
 
 ### Computer Vision
 
-OpenCV, Grounding DINO, OWL-ViT, CLIP, ZED SDK  
-Stereo Vision, Depth Estimation, Camera Calibration, Object Detection, Semantic Segmentation
+OpenCV · Grounding DINO · OWL-ViT · CLIP · ZED SDK · Stereo Vision · Depth Estimation · Camera Calibration
 
-### Robotics & Autonomous Systems
+### Robotics
 
-ROS2 Humble, Nav2, SLAM Toolbox, RTAB-Map, ORB-SLAM3  
-TF2, Pangolin, EKF, MAVLink, PyMAVLink, LiDAR, Sensor Fusion
+ROS2 Humble · Nav2 · SLAM Toolbox · RTAB-Map · ORB-SLAM3 · TF2 · EKF · PyMAVLink · MAVLink · LiDAR · Visual Odometry · Sensor Fusion · Path Planning
 
-### Hardware
+### Development
 
-NVIDIA Jetson Orin Nano, Raspberry Pi 5, ZED 2, ZED Mini  
-RPLiDAR A1, IMX219 Stereo Camera, Pixhawk
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
-### Development & Infrastructure
-
-Python, C++, C#, SQL  
-Git, Linux, Docker, CUDA, FastAPI, PostgreSQL, Redis, Qdrant
-
----
-
-# Featured Projects
-
-## iGlasses — Edge AI Assistive Vision
-
-Real-time assistive vision and navigation system for visually impaired users.
-
-- Built stereo perception using an IMX219 stereo camera, including calibration, rectification and depth estimation.
-- Generated 2D occupancy grids and integrated depth information for real-time obstacle-aware navigation.
-- Fine-tuned YOLOv8 for traffic-light and obstacle detection and integrated detections with stereo depth.
-- Developed voice-assisted interaction, emergency response and real-time navigation capabilities.
-- Designed the system for low-latency edge inference and real-time operation.
-
-**1st Place — Engineering Project Exhibition**  
-**3rd Place — Youth Tech Begin**  
-**₺30,000 Prize**
+Git · GitHub · Linux · Docker · CUDA · FastAPI · PostgreSQL · Redis · Qdrant
 
 ---
 
-## Ulurover — Autonomous Rover
+## Featured Projects
 
-Autonomous mobile robotics platform focused on SLAM, localization, perception and navigation.
+### iGlasses
 
-- Developed autonomous navigation using ROS2 Humble, RPLiDAR A1, SLAM and Nav2.
-- Built a custom stereo-vision pipeline using ZED 2 and ORB-SLAM3 for visual localization and odometry.
-- Integrated IMU and visual odometry using EKF sensor fusion and used Pangolin for real-time SLAM visualization.
-- Implemented mapping, localization, TF2 transformations, path planning, costmaps and obstacle avoidance.
-- Validated the system through 50+ navigation experiments and achieved approximately 35% reduction in localization drift.
+Real-time assistive vision system combining stereo vision, YOLOv8, depth perception, and edge AI for obstacle detection and navigation.
 
----
+**1st Place — Engineering Project Exhibition | 3rd Place — Youth Tech Begin**
 
-## Industrial Anomaly Detection
+### Ulurover
 
-Unsupervised industrial defect detection using a custom convolutional autoencoder.
+Autonomous rover platform using ROS2, LiDAR, Nav2, ORB-SLAM3, stereo vision, EKF sensor fusion, and autonomous navigation.
 
-- Trained exclusively on defect-free MVTec AD images without using anomalous samples during training.
-- Compressed 900×900 images into an 8-dimensional latent representation and reconstructed the original image through a decoder.
-- Used reconstruction error as the anomaly score for detecting previously unseen industrial defects.
-- Implemented using PyTorch, CNNs, Autoencoders and MVTec AD.
+**50+ navigation tests | 35% localization drift reduction**
 
----
+### Industrial Anomaly Detection
 
-## Weakly Supervised Semantic Segmentation
+Unsupervised convolutional autoencoder trained exclusively on normal MVTec AD images for reconstruction-based defect detection.
 
-U-Net-based semantic segmentation using limited point-level supervision on aerial imagery.
+**900×900 input | 8-dimensional latent representation**
 
-- Trained a U-Net segmentation model using partial annotations rather than complete pixel-level masks.
-- Compared training with only 5, 10 and 50 annotated pixels per image.
-- Evaluated segmentation using Intersection over Union (IoU) and analyzed the impact of sparse supervision on object boundaries and small structures.
+### Weakly Supervised Segmentation
+
+U-Net segmentation research using sparse pixel-level supervision to investigate segmentation performance under limited annotation.
+
+**5 / 10 / 50 annotated pixels per image**
 
 ---
 
-# Research Interests
+## Research Interests
 
-Computer Vision, Vision-Language Models, Multimodal AI, Object Localization, Autonomous Systems, SLAM, Edge AI
-
----
-
-# Education
-
-**B.Sc. Computer Engineering**  
-Bursa Uludağ University
-
-**Erasmus+ — B.Sc. Software Engineering**  
-Heilbronn University of Applied Sciences
+Computer Vision · Vision-Language Models · Visual Grounding · Weakly Supervised Learning · Anomaly Detection · Multimodal Learning · SLAM · Autonomous Navigation · Edge AI
 
 ---
 
-# Contact
+## GitHub Statistics
 
-LinkedIn: [linkedin.com/in/tahazeeshan](https://linkedin.com/in/tahazeeshan)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="180"/>
+</p>
 
-Portfolio: [tahazee.github.io](https://tahazee.github.io)
+---
 
-Email: tahazeeshan09@gmail.com
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## Education
+
+**B.Sc. Computer Engineering** — Bursa Uludağ University
+
+**Erasmus+ B.Sc. Software Engineering** — Heilbronn University of Applied Sciences
+
+---
+
+## Contact
+
+**Email:** [tahazeeshan09@gmail.com](mailto:tahazeeshan09@gmail.com)
+**LinkedIn:** Taha Zeeshan
+**Portfolio:** tahazee.github.io
