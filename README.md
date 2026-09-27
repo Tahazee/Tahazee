@@ -19,7 +19,6 @@ I primarily program in Python and C++, with experience in C#, SQL, PyTorch, Tens
 
 ## Github Stats:
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Tahazee&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahazee&show_icons=true&include_all_commits=true)   ![Top Languages](https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut)
 
 
-![Top Languages](https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut)
