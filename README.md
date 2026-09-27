@@ -19,6 +19,14 @@ I primarily program in Python and C++, with experience in C#, SQL, PyTorch, Tens
 
 ## Github Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahazee&show_icons=true&include_all_commits=true)   ![Top Languages](https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut)
+## GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahazee&show_icons=true&include_all_commits=true&hide_border=true" height="180"/>
+  <img src="https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tahazee&theme=default&hide_border=true" height="180"/>
+</p>
 
