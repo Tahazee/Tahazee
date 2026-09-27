@@ -19,4 +19,4 @@ I primarily program in Python and C++, with experience in C#, SQL, PyTorch, Tens
 
 ## Github Stats:
 
-![GitHub Stats Card](https://ghstats.dev/api/card?Tahazee=octocat&theme=light)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Tahazee&theme=light)
