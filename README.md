@@ -17,13 +17,13 @@ Currently, I'm focused on building practical and research-oriented AI/ML project
 
 I primarily program in Python and C++, with experience in C#, SQL, PyTorch, TensorFlow, OpenCV, ROS2, Docker, and CUDA.
 
-## Github Stats:
-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahazee&show_icons=true&include_all_commits=true&hide_border=true" height="180"/>
+
+  <img src="https://ghstats.dev/api/card?username=Tahazee&theme=light&show_icons=true&show_ring=true&hide_border=true&hide=week,trend" height="180"/>
   <img src="https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut" height="180"/>
+
 </p>
 
 <p align="center">
