@@ -15,7 +15,7 @@ Currently, I'm focused on building practical and research-oriented AI/ML project
 * SLAM & Autonomous Navigation
 * Edge AI
 
-I primarily program in Python and C++, with experience in C#, SQL, PyTorch, TensorFlow, OpenCV, ROS2, Docker, and CUDA.
+I primarily program in Python and C++, with experience in C#, SQL, PyTorch, TensorFlow, ScikitLearn OpenCV, ROS2, Docker, and CUDA.
 
 ## GitHub Statistics
 
