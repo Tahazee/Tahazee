@@ -19,14 +19,15 @@ I primarily program in Python and C++, with experience in C#, SQL, PyTorch, Tens
 
 ## GitHub Statistics
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
+<img src="https://ghstats.dev/api/card?username=Tahazee&theme=light&show_icons=true&show_ring=true&hide_border=true&hide=prs,week,trend,avg,active_day,grade" width="495"/>
+</td>
+<td>
+<img src="https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut" width="495"/>
+</td>
+</tr>
+</table>
 
-  <img src="https://ghstats.dev/api/card?username=Tahazee&theme=light&show_icons=true&show_ring=true&hide_border=true&hide=week,trend" height="380"/>
-  <img src="https://ghstats.dev/api/langs?username=Tahazee&theme=light&layout=donut" height="180"/>
-
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tahazee&theme=default&hide_border=true" height="180"/>
-</p>
 
