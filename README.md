@@ -16,3 +16,7 @@ Currently, I'm focused on building practical and research-oriented AI/ML project
 * Edge AI
 
 I primarily program in Python and C++, with experience in C#, SQL, PyTorch, TensorFlow, OpenCV, ROS2, Docker, and CUDA.
+
+## Github Stats:
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat&theme=light)
